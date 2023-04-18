@@ -1,0 +1,12 @@
+.card-label {
+    top: -40%;
+    right: -50%;
+    position: absolute;
+    border: 1px solid red;
+    color: red;
+    background-color: white;
+    padding: 10px 200px;
+    transform: rotate(-40deg);
+    font-size: 40%;
+    font-weight: bold;
+}
